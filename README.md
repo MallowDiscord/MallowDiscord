@@ -1,13 +1,13 @@
 ## Oiii eu sou o Frank Jhonson, Sou Funcionario Oficial do [Discord](https://discord.com/), e tenho alguns Projetos Extras! 
 
-#### I work [Discord](https://discord.com/) and maintain a few extra projects on the side.
+> #### I work [Discord](https://discord.com/) and maintain a few extra projects on the side. 
 
 ### Caso tenha alguma Denuncia, ou bugs da Plataforma. (Reporte para Nós)
 
 
 > [  Suporte para Denúncias](http://dis.gd/contact) 
-
-
+>
+>
 > [ Suporte para Bugs.](https://dis.gd/support)
 
 <div align="center">
