@@ -1,8 +1,25 @@
+## Oiii eu sou o Frank Jhonson, Sou Funcionario Oficial do [@Discord](https://discord.com/), e tenho alguns Projetos Extras!
+
+<h1 align="center"> <a href=""><img src="https://cdn.discordapp.com/emojis/988078225689309284.gif?size=2048" alt="Red - Discord Bot"></a>
+
+#### I work [Discord](https://discord.com/) and maintain a few extra projects on the side.
+
+### Caso tenha alguma Denuncia, ou bugs da Plataforma. (Reporte para Nós)
+
+
+> [  Suporte para Denúncias](http://dis.gd/contact) 
+
+
+> [ Suporte para Bugs.](https://dis.gd/support)
+
 <div align="center">
   <a href="https://github.com/MallowDiscord">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MallowDiscord&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MallowDiscord&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+
+
 
 
 
