@@ -1,6 +1,4 @@
-## Oiii eu sou o Frank Jhonson, Sou Funcionario Oficial do [@Discord](https://discord.com/), e tenho alguns Projetos Extras!
-
-<h1 align="center"> <a href=""><img src="https://cdn.discordapp.com/emojis/988078225689309284.gif?size=2048" alt="Red - Discord Bot"></a>
+## Oiii eu sou o Frank Jhonson, Sou Funcionario Oficial do [Discord](https://discord.com/), e tenho alguns Projetos Extras! 
 
 #### I work [Discord](https://discord.com/) and maintain a few extra projects on the side.
 
