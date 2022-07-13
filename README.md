@@ -2,13 +2,6 @@
 
 > #### I work [Discord](https://discord.com/) and maintain a few extra projects on the side. 
 
-### Caso tenha alguma Denúncia, ou Bugs da Plataforma. (Reporte para Nós)
-
-
-> [  Suporte para Denúncias](http://dis.gd/contact) 
->
->
-> [  Suporte para Bugs.](https://dis.gd/support)
 
 <div align="center">
   <a href="https://github.com/MallowDiscord">
