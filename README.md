@@ -1,4 +1,4 @@
-## Oiii eu sou o Frank Jhonson, Sou Funcionario Oficial do [Discord](https://discord.com/), e tenho alguns Projetos Extras ao lado! 
+## Oiii eu sou o Frank Jhonson, Sou Funcionário Oficial do [Discord](https://discord.com/), e tenho alguns Projetos Extras ao lado! 
 
 > #### I work [Discord](https://discord.com/) and maintain a few extra projects on the side. 
 
