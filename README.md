@@ -1,4 +1,4 @@
-## Oiii me chamo Frank Jhonson, Trabalho no @Discord, e tenho alguns Projetos Extras ao lado! 
+
 
 > #### I work [Discord](https://discord.com/) and maintain a few extra projects on the side. 
 
