@@ -1,6 +1,6 @@
 
 
-> #### I work [Discord](https://discord.com/) and maintain a few extra projects on the side. 
+
 
 
 <div align="center">
